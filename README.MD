@@ -18,18 +18,18 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 
 ## Stack
 
-[Valid Parentheses](Valid Parentheses)
+[Valid Parentheses](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Stack/validParentheses.cpp)
 
 ## Hash Map
 
-[Valid Anagrams](To Be updated)
+[Valid Anagrams](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Hashmap/validAnagram.cpp)
 
 ## Linked List
 
 [Linked List Cycle](To be Continued...)
 
-[Merge Two Sorted Lists](To be continued...)
+[Merge Two Sorted Lists](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/LinkedList/mergeTwoSortedLists.cpp)
 
 ## Binary Tree General
 
-[Maximum Depth Binary Tree](the link...)
+[Maximum Depth Binary Tree](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/BinaryTreeGeneral/maximumDepthBinaryTree.cpp)
