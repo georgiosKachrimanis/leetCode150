@@ -15,7 +15,7 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 [Roman to Integer](https://github.com/georgiosKachrimanis/leetCode150/blob/fcc16c0588d60830c5f052e8dc2a768f3df16d64/Array_String/romanToInteger.cpp)
 
 ## Two Pointers
-
+[Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
 ## Stack
 
 [Valid Parentheses](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Stack/validParentheses.cpp)
