@@ -16,6 +16,10 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 
 ## Two Pointers
 
+## Stack
+
+[Valid Parentheses](Valid Parentheses)
+
 ## Hash Map
 
 [Valid Anagrams](To Be updated)
@@ -25,3 +29,7 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 [Linked List Cycle](To be Continued...)
 
 [Merge Two Sorted Lists](To be continued...)
+
+## Binary Tree General
+
+[Maximum Depth Binary Tree](the link...)
