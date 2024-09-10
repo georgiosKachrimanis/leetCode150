@@ -42,6 +42,6 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 
 ## Intervals
 
-[Summary Ranges]((Link coming soon))
+[Summary Ranges](Link coming soon)
 
-[Merge Intervals](Link coming soon)
+[Merge Intervals](https://github.com/georgiosKachrimanis/leetCode150/blob/d12e5f0556aba241a7d0b4e2be813816874703cc/Intervals/mergeIntervals.cpp)
