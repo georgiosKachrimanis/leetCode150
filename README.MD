@@ -20,6 +20,8 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 
 [Valid Parentheses](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Stack/validParentheses.cpp)
 
+[Happy Numbers](Link to be added)
+
 ## Hash Map
 
 [Valid Anagrams](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Hashmap/validAnagram.cpp)
