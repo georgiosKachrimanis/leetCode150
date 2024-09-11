@@ -16,7 +16,7 @@ I personally try to use the build in functions as much as possible in my solutio
 
 [Roman to Integer](https://github.com/georgiosKachrimanis/leetCode150/blob/fcc16c0588d60830c5f052e8dc2a768f3df16d64/Array_String/romanToInteger.cpp)
 
-[Length of last word](Link coming soon)
+[Length of last word](https://github.com/georgiosKachrimanis/leetCode150/blob/801d38fae3cbf6c4d4e595b5c93b01662487d04e/ArrayString/lengthOfLastWord.cpp)
 
 ## Two Pointers
 
@@ -38,7 +38,7 @@ I personally try to use the build in functions as much as possible in my solutio
 
 [Merge Two Sorted Lists](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/LinkedList/mergeTwoSortedLists.cpp)
 
-[Add two numbers](Link coming soon)
+[Add two numbers](https://github.com/georgiosKachrimanis/leetCode150/blob/801d38fae3cbf6c4d4e595b5c93b01662487d04e/LinkedList/addTwoNumbers.cpp)
 
 ## Binary Tree General
 
