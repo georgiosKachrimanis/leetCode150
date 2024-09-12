@@ -2,7 +2,7 @@
 
 These are some of the solutions for the Top Interview 150 questions in [Leet Code](https://leetcode.com/studyplan/top-interview-150/).
 
-I personally try to use the build in functions as much as possible in my solution. A lot of times trying to reinvent the wheel is not necessary. 
+I personally try to use the build in functions as much as possible in my solution. A lot of times trying to reinvent the wheel is not necessary.
 
 ## Array/String
 
@@ -49,6 +49,10 @@ I personally try to use the build in functions as much as possible in my solutio
 [Path Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/2cf673369d48b2aad6b1166fd6b984d302ecad93/BinaryTreeGeneral/pathSum.cpp)
 
 [Count Complete Tree Nodes](https://github.com/georgiosKachrimanis/leetCode150/blob/07605e9f9c2443f5c8b3ca170b62c5a3719d87f8/BinaryTreeGeneral/countCompleteTreeNodes.cpp)
+
+## Graph
+
+[Number of Islands](https://github.com/georgiosKachrimanis/leetCode150/blob/9c2195dce65859d3fbd8cb06e815fb4d8d400558/Graph/NumberOfIslands.cpp)
 
 ## Intervals
 
