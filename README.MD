@@ -4,6 +4,9 @@ These are some of the solutions for the Top Interview 150 questions in [Leet Cod
 
 I personally try to use the build in functions as much as possible in my solution. A lot of times trying to reinvent the wheel is not necessary.
 
+Also, I need to mention that for people who strangle or find the questions difficult. Do not give up. Try to figure out alone how to solve the problem, but if you believe it is over your capabilities check the solutions.
+There are here to teach you how to think and solve the problems in a correct and coherent way.
+
 ## Array/String
 
 [Merge Sorted Array](https://github.com/georgiosKachrimanis/leetCode150/blob/82afdce3fc500c3b5b2db347ded469ed565b2103/Array_String/mergeSortedArray.cpp)
