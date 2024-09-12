@@ -21,6 +21,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Length of last word](https://github.com/georgiosKachrimanis/leetCode150/blob/801d38fae3cbf6c4d4e595b5c93b01662487d04e/ArrayString/lengthOfLastWord.cpp)
 
+[Index of first Occurrence in a String](https://github.com/georgiosKachrimanis/leetCode150/blob/b0e6c793ffdef3718979f3353cda70e282b15665/ArrayString/indexFirstOccurrence.cpp)
+
 ## Two Pointers
 
 [Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
