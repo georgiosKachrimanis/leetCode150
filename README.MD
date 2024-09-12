@@ -48,6 +48,8 @@ I personally try to use the build in functions as much as possible in my solutio
 
 [Path Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/2cf673369d48b2aad6b1166fd6b984d302ecad93/BinaryTreeGeneral/pathSum.cpp)
 
+[Count Complete Tree Nodes](Link coming soon)
+
 ## Intervals
 
 [Summary Ranges](Link coming soon)
