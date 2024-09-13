@@ -59,8 +59,9 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Binary Tree BFS (Breadth First Search)
 
-[Binary tree right side view]()
+[Binary tree right side view](https://github.com/georgiosKachrimanis/leetCode150/blob/91985c083ef7b087e7cc0c854c2a4800560a025e/Binary%20Tree%20BFS/BInaryTreeRightSideView.cpp)
 
+[Average of levels in binary tree](https://github.com/georgiosKachrimanis/leetCode150/blob/91985c083ef7b087e7cc0c854c2a4800560a025e/Binary%20Tree%20BFS/AverageOfLevelsInBinaryTree.cpp)
 
 ## Graph
 
