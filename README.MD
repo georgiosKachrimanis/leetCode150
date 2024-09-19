@@ -9,6 +9,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Array/String
 
+[Majority Element](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/ArrayString/majorityElement.cpp)
+
 [Merge Sorted Array](https://github.com/georgiosKachrimanis/leetCode150/blob/82afdce3fc500c3b5b2db347ded469ed565b2103/Array_String/mergeSortedArray.cpp)
 
 [Remove Element](https://github.com/georgiosKachrimanis/leetCode150/blob/82afdce3fc500c3b5b2db347ded469ed565b2103/Array_String/removeElement.cpp)
@@ -26,6 +28,8 @@ There are here to teach you how to think and solve the problems in a correct and
 ## Two Pointers
 
 [Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
+
+[Two Sum II](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/TwoPointers/twoSumII.cpp)
 
 ## Stack
 
@@ -72,3 +76,11 @@ There are here to teach you how to think and solve the problems in a correct and
 [Summary Ranges](https://github.com/georgiosKachrimanis/leetCode150/blob/0a4cf90eab37a61243dd13bfb1a576da9dfa98a9/Intervals/SummaryRanges.cpp)
 
 [Merge Intervals](https://github.com/georgiosKachrimanis/leetCode150/blob/d12e5f0556aba241a7d0b4e2be813816874703cc/Intervals/mergeIntervals.cpp)
+
+## Bit Manipulation
+
+[Number of one Bits](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/Bit%20Manipulation/numberOf1Bits.cpp)
+
+## Matrix
+
+[Valid Sudoku](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/matrix/validSoduko.cpp)
