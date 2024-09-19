@@ -25,6 +25,10 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Index of first Occurrence in a String](https://github.com/georgiosKachrimanis/leetCode150/blob/b0e6c793ffdef3718979f3353cda70e282b15665/ArrayString/indexFirstOccurrence.cpp)
 
+[Best time to buy and sell stock](https://github.com/georgiosKachrimanis/leetCode150/blob/1141510b30b738661f2468c56433abdd74263c04/ArrayString/bestTimeToSell.cpp)
+
+[Best time to buy and sell stock II](https://github.com/georgiosKachrimanis/leetCode150/blob/1141510b30b738661f2468c56433abdd74263c04/ArrayString/bestTimeToSell2.cpp)
+
 ## Two Pointers
 
 [Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
@@ -32,6 +36,8 @@ There are here to teach you how to think and solve the problems in a correct and
 [Two Sum I](link is coming, if you want the solution is 98% the same as Two Sum II. The only difference are the return values.)
 
 [Two Sum II](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/TwoPointers/twoSumII.cpp)
+
+[Three Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/1141510b30b738661f2468c56433abdd74263c04/TwoPointers/3Sum.cpp)
 
 ## Stack
 
