@@ -32,6 +32,6 @@ public:
             }
         }
         // For people not used to ternary operator-> condition ? value_if_true : value_if_false;
-        return (minSize != INT_MAX) ? minSize : 0; 
+        return (minSize != INT_MAX) ? minSize : 0;
     }
 };
