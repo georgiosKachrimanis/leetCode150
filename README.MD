@@ -45,7 +45,7 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Sliding Windows
 
-[Minimum Size Sub Array Sum](Link to be added)
+[Minimum Size Sub Array Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/slidingWindows/minimumSizeSubArraySum.cpp)
 
 ## Hash Map
 
@@ -97,4 +97,4 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Valid Sudoku](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/matrix/validSoduko.cpp)
 
-[Spiral Matrix]()
+[Spiral Matrix](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/matrix/spiralMatrix.cpp)
