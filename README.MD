@@ -43,6 +43,10 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Valid Parentheses](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Stack/validParentheses.cpp)
 
+## Sliding Windows
+
+[Minimum Size Sub Array Sum](Link to be added)
+
 ## Hash Map
 
 [Valid Anagrams](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Hashmap/validAnagram.cpp)
