@@ -7,6 +7,8 @@ I personally try to use the build in functions as much as possible in my solutio
 Also, I need to mention that for people who strangle or find the questions difficult. Do not give up. Try to figure out alone how to solve the problem, but if you believe it is over your capabilities check the solutions.
 There are here to teach you how to think and solve the problems in a correct and coherent way.
 
+*You can reach me at <georgios.kachrimanis@icloud.com>*
+
 ## Array/String
 
 [Majority Element](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/ArrayString/majorityElement.cpp)
