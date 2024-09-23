@@ -29,6 +29,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Best time to buy and sell stock II](https://github.com/georgiosKachrimanis/leetCode150/blob/1141510b30b738661f2468c56433abdd74263c04/ArrayString/bestTimeToSell2.cpp)
 
+[Integer to Roman](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/ArrayString/integerToRoma.cpp)
+
 ## Two Pointers
 
 [Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
@@ -43,6 +45,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Valid Parentheses](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Stack/validParentheses.cpp)
 
+[Min Stack](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/Stack/minStack.cpp)
+
 ## Sliding Windows
 
 [Minimum Size Sub Array Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/slidingWindows/minimumSizeSubArraySum.cpp)
@@ -55,7 +59,7 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Linked List
 
-[Linked List Cycle](Link coming soon)
+[Rotate List](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/LinkedList/rotateList.cpp)
 
 [Merge Two Sorted Lists](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/LinkedList/mergeTwoSortedLists.cpp)
 
