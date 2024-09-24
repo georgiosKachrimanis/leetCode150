@@ -49,8 +49,7 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Min Stack](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/Stack/minStack.cpp)
 
-[Simplify Path]()
-
+[Simplify Path](https://github.com/georgiosKachrimanis/leetCode150/blob/8dfe38ffbbd79d7e483f255c36d34a0e230ca3ab/Stack/simplifyPath.cpp)
 
 ## Sliding Windows
 
@@ -69,6 +68,8 @@ There are here to teach you how to think and solve the problems in a correct and
 [Merge Two Sorted Lists](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/LinkedList/mergeTwoSortedLists.cpp)
 
 [Add two numbers](https://github.com/georgiosKachrimanis/leetCode150/blob/801d38fae3cbf6c4d4e595b5c93b01662487d04e/LinkedList/addTwoNumbers.cpp)
+
+[Reverse Linked List II](https://github.com/georgiosKachrimanis/leetCode150/blob/8dfe38ffbbd79d7e483f255c36d34a0e230ca3ab/LinkedList/reverseLinkedList2.cpp)
 
 ## Binary Tree General
 
@@ -108,4 +109,4 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Spiral Matrix](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/matrix/spiralMatrix.cpp)
 
-[Rotate Image](soon...)
+[Rotate Image](https://github.com/georgiosKachrimanis/leetCode150/blob/8dfe38ffbbd79d7e483f255c36d34a0e230ca3ab/matrix/rotateImage.cpp)
