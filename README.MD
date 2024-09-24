@@ -49,6 +49,9 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Min Stack](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/Stack/minStack.cpp)
 
+[Simplify Path]()
+
+
 ## Sliding Windows
 
 [Minimum Size Sub Array Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/slidingWindows/minimumSizeSubArraySum.cpp)
@@ -104,3 +107,5 @@ There are here to teach you how to think and solve the problems in a correct and
 [Valid Sudoku](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/matrix/validSoduko.cpp)
 
 [Spiral Matrix](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/matrix/spiralMatrix.cpp)
+
+[Rotate Image](soon...)
