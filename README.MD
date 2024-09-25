@@ -55,6 +55,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Minimum Size Sub Array Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/slidingWindows/minimumSizeSubArraySum.cpp)
 
+[Longest Substring Without Repeating Characters](soon...)
+
 ## Hash Map
 
 [Valid Anagrams](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Hashmap/validAnagram.cpp)
