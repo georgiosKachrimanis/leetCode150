@@ -55,7 +55,7 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Minimum Size Sub Array Sum](https://github.com/georgiosKachrimanis/leetCode150/blob/b440dcd6297422d34a0c5f47e6532a437cfdd289/slidingWindows/minimumSizeSubArraySum.cpp)
 
-[Longest Substring Without Repeating Characters](soon...)
+[Longest Substring Without Repeating Characters](https://github.com/georgiosKachrimanis/leetCode150/blob/faf175505af39af23494975ca1c659fc2bf3fa4f/slidingWindows/longestSubstringWithoutRepeatingCharacters.cpp)
 
 ## Hash Map
 
@@ -113,4 +113,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Rotate Image](https://github.com/georgiosKachrimanis/leetCode150/blob/8dfe38ffbbd79d7e483f255c36d34a0e230ca3ab/matrix/rotateImage.cpp)
 
-[Set Matrix Zeroes](soon)
+[Set Matrix Zeroes](https://github.com/georgiosKachrimanis/leetCode150/blob/faf175505af39af23494975ca1c659fc2bf3fa4f/matrix/setMatrixZeroes.cpp)
+
+## Backtracking
+
+[17. Letter Combinations of a Phone Number](https://github.com/georgiosKachrimanis/leetCode150/blob/faf175505af39af23494975ca1c659fc2bf3fa4f/Backtracking/letterCombinationsOfPhoneNumber.cpp)
