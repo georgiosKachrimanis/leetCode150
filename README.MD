@@ -33,6 +33,9 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Integer to Roman](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/ArrayString/integerToRoma.cpp)
 
+[Rotate Array](soon)
+
+
 ## Two Pointers
 
 [Valid Palindrome](https://github.com/georgiosKachrimanis/leetCode150/blob/6e051d3860d0fa8840988fcb865d611ab4557feb/TwoPointers/validPalindrome.cpp)
