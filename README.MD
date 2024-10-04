@@ -62,6 +62,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Hash Map
 
+[Ransom Note](https://github.com/georgiosKachrimanis/leetCode150/blob/9bce77c015f078ad8a0c039d4054bdc12d9423fe/Hashmap/ransomNote.cpp)
+
 [Valid Anagrams](https://github.com/georgiosKachrimanis/leetCode150/blob/fe04f587b8dd38d264b30c47f78185b3e0f174b3/Hashmap/validAnagram.cpp)
 
 [Happy Numbers](https://github.com/georgiosKachrimanis/leetCode150/blob/de56d8cf4021fdc29257c83965514ba6c5e795d6/Hashmap/happyNumber.cpp)
