@@ -11,6 +11,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 ## Array/String
 
+[Longest Common prefix](https://github.com/georgiosKachrimanis/leetCode150/blob/93f9deb7e7902ff12b6114832a0b9ed30acea70b/ArrayString/longestCommonPrefix.cpp)
+
 [Majority Element](https://github.com/georgiosKachrimanis/leetCode150/blob/9c5da512d13bb1dac47c2e64dee19ba9d9c923e6/ArrayString/majorityElement.cpp)
 
 [Merge Sorted Array](https://github.com/georgiosKachrimanis/leetCode150/blob/82afdce3fc500c3b5b2db347ded469ed565b2103/Array_String/mergeSortedArray.cpp)
@@ -34,7 +36,6 @@ There are here to teach you how to think and solve the problems in a correct and
 [Integer to Roman](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/ArrayString/integerToRoma.cpp)
 
 [Rotate Array](soon)
-
 
 ## Two Pointers
 
