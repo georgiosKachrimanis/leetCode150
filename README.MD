@@ -69,6 +69,8 @@ There are here to teach you how to think and solve the problems in a correct and
 
 [Happy Numbers](https://github.com/georgiosKachrimanis/leetCode150/blob/de56d8cf4021fdc29257c83965514ba6c5e795d6/Hashmap/happyNumber.cpp)
 
+[Isomorphic Strings](https://github.com/georgiosKachrimanis/leetCode150/blob/4fa22b9454b3f4a56eab6b79e0a6c0e2b9c1d66e/Hashmap/isomorphicStrings.cpp)
+
 ## Linked List
 
 [Rotate List](https://github.com/georgiosKachrimanis/leetCode150/blob/024c8152e5d38fe93227c392eb2c2f9e2f89f5c5/LinkedList/rotateList.cpp)
